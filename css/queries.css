@@ -199,9 +199,23 @@
 
   .highlights-box {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     align-items: start;
     gap: 4rem;
+  }
+
+  .highlight {
+    display: flex;
+    align-items: flex-start;
+    gap: 4rem;
+  }
+
+  .highlights-box img {
+    width: 50%;
+  }
+
+  .highlight > div {
+    padding-top: 6rem;
   }
 
   .f-layout {
@@ -390,6 +404,18 @@
     grid-template-columns: 1fr;
     align-items: start;
     gap: 4rem;
+  }
+
+  .highlight {
+    display: block;
+  }
+
+  .highlights-box img {
+    width: 100%;
+  }
+
+  .highlight > div {
+    padding-top: 0rem;
   }
 
   .double-blocks {

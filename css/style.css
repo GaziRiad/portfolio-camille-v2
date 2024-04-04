@@ -678,17 +678,6 @@
   padding: 11rem 0;
 }
 
-/* .highlights-box {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 4rem;
-}
-
-.highlights-box div {
-  flex: 1; 
-} */
-
 .highlights-box {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

@@ -85,7 +85,7 @@ See you next time 👋
 /////////////////////////////////////////////////////////////
 
 1 - For the Highlights, you add a similar block inside of a section-container:
---- If you want a background, add highlights-bg alongise the class template-section div.
+--- If you want a background color, add highlights-bg alongise the class template-section.
 
     <div class="highlights-box">
       <div>
