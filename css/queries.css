@@ -2,7 +2,7 @@
 /* BELOW 908px (Tablets) */
 /**************************/
 
-/* @media (max-width: 48em) { */
+/* @media (max-width: 56.75em) { */
 @media (max-width: 56.75em) {
   .btn-mobile-nav {
     display: block;
@@ -206,16 +206,12 @@
 
   .highlight {
     display: flex;
-    align-items: flex-start;
-    gap: 4rem;
+    align-items: center;
+    gap: 3.2rem;
   }
 
   .highlights-box img {
     width: 50%;
-  }
-
-  .highlight > div {
-    padding-top: 6rem;
   }
 
   .f-layout {

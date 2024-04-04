@@ -88,7 +88,7 @@ See you next time 👋
 --- If you want a background color, add highlights-bg alongise the class template-section.
 
     <div class="highlights-box">
-      <div>
+      <div class="highlight">
         <img src="./assets/new images/highlight-1.png" />
         <div>
             <p class="highlight-title">Project metrics</p>
